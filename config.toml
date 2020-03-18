@@ -11,13 +11,13 @@ theme = "hugo-minimalist-theme"
 
 
 [params]
-    site_author = "John Doe"
-    site_description = "The awesome blog of John Doe."
+    site_author = "NMDP Bioinformatics"
+    site_description = "NMDP Bioinformatics Group Blog"
     location = "Earth"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
     header_background = "img/desk.jpg"
-    header_title = "Customizable header title"
+    header_title = "NMDP Bioinformatics"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
